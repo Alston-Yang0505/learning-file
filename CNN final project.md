@@ -26,8 +26,28 @@
 
 # 四、實驗結果
 ## SqueezeNet
-<img width="719" height="317" alt="image" src="https://github.com/user-attachments/assets/9bfcb4d2-1e91-4b6f-b032-f588477dca14" />
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/95419ef9-f271-40e3-9e6b-a4b0845fa080" width="250"><br>
+      <b>原圖類別：</b>棒球<br>辨識結果：棒球 82.1%
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/086cb16a-e33b-40d7-8384-36db558d0b95" width="250"><br>
+      <b>原圖類別：</b>羽球拍<br>辨識結果：桌球拍 98.9%
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fdb4ec7a-cab2-4e53-b161-365ddf178da2" width="250"><br>
+      <b>原圖類別：</b>高爾夫球<br>辨識結果：高爾夫球 99%
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ac9a3b96-6377-4bc2-9ff8-6e49b77e9017" width="250"><br>
+      <b>原圖類別：</b>桌球拍<br>辨識結果：桌球拍 100%
+    </td>
+  </tr>
+</table>
 ## AlexNet
 <img width="720" height="323" alt="image" src="https://github.com/user-attachments/assets/8a0281d7-8105-4599-b8c4-8c6aa35c4f45" />
 
